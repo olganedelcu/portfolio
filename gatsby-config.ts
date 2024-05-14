@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `Using Cara - Gatsby Theme from @lekoarts`,
     siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `Personal Portfolio Olga Nedelcu`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner.png`,
     siteLanguage: `en`,
     author: `@olga + @lekoarts_de`,
   },
