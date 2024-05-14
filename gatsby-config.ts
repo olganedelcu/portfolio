@@ -10,12 +10,12 @@ const config: GatsbyConfig = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
     siteTitle: `Olga Nedelcu`,
     siteTitleAlt: `Olga Nedelcu - Portfolio`,
-    siteHeadline: `Using Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteHeadline: `Olga Nedelcu Portfolio - enjoy`,
+    siteUrl: `https://olga-nedelcu-portfolio.vercel.app/`,
     siteDescription: `Personal Portfolio Olga Nedelcu`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
-    author: `@olga + @lekoarts_de`,
+    author: `@olga`,
   },
   trailingSlash: `always`,
   plugins: [
