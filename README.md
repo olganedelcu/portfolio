@@ -14,3 +14,5 @@
 
 
 Built with - Gatsby Starter Portfolio: Cara
+
+Made in Berlin in a sunny day 🤗
