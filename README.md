@@ -4,7 +4,7 @@
 </h1>
 
 
-[**Link to Website**]([https://cara.lekoarts.de](https://olga-nedelcu-portfolio.vercel.app/)
+[**Link to Website**]([https://olga-nedelcu-portfolio.vercel.app/])
 
 ## ✨ Features
 
