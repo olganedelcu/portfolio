@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Portfolio built with - Gatsby Starter Portfolio: Cara
+  Personal Portfolio
 </h1>
 
 
@@ -11,3 +11,6 @@
 - Theme UI-based theming
 - react-spring Parallax Effect
 - CSS Animations on Shapes
+
+
+Built with - Gatsby Starter Portfolio: Cara
